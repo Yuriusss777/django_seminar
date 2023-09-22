@@ -1,0 +1,175 @@
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 36, in home_view
+    return render(request, 'tavreli/home.html', {'html': html_home})
+  File "C:\pythonProject15\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: tavreli/home.html
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 36, in home_view
+    return render(request, 'tavreli/home.html', {'html': html_home})
+  File "C:\pythonProject15\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: tavreli/home.html
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 36, in home_view
+    return render(request, 'tavreli/home.html', {'html': html_home})
+  File "C:\pythonProject15\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: tavreli/home.html
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\start\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\start\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\pythonProject15\start\start\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 36, in home_view
+    return render(request, 'templates/tavreli/home.html', {'html': html_home})
+  File "C:\pythonProject15\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\pythonProject15\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: templates/tavreli/home.html
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Watching for file changes with StatReloader
+Not Found: /
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\start\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+Главная страница была посещена
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Главная страница была посещена
+Главная страница была посещена
+Главная страница была посещена
+Watching for file changes with StatReloader
+Главная страница была посещена
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 11, in home_view
+    return render(request, 'tavreli/home.html', {'html': html_home})
+NameError: name 'html_home' is not defined
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Главная страница была посещена
+Главная страница была посещена
+Главная страница была посещена
+Главная страница была посещена
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\pythonProject15\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\pythonProject15\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\pythonProject15\start\tavreli\views.py", line 36, in home_view
+    return render(request, 'tavreli/home.html', {'html': html_home})
+NameError: name 'html_home' is not defined
+C:\pythonProject15\start\tavreli\views.py changed, reloading.
+Watching for file changes with StatReloader
+Главная страница была посещена
